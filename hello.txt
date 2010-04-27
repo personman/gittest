@@ -1,5 +1,7 @@
 hi
 
+added this line from gittest3 master
+
 this line was added from gittest2 clone
 
 added this line from gittest3

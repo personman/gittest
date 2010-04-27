@@ -1,3 +1,5 @@
 hi
 
 this line was added from gittest2 clone
+
+added this line from gittest3

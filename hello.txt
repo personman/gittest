@@ -7,3 +7,5 @@ this line was added from gittest2 clone
 added this line from gittest3
 
 Edited from the newfeature branch in gittest3
+
+Just another new line
